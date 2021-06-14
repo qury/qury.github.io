@@ -69,9 +69,9 @@ html_theme = 'press'
 #html_theme = 'sphinx_rtd_theme'
 
 
-html_sidebars = {
-    "**": ["globaltoc.html", "localtoc.html", "searchbox.html"]
-}
+#html_sidebars = {
+#    "**": ["globaltoc.html", "localtoc.html", "searchbox.html"]
+#}
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
